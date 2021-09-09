@@ -8,7 +8,7 @@ A Website the offers fitnerss training services.
 *CSS
 
 ## Website
-https://Samurai_Huey.github.io/run-buddy/
+https://samuraihuey.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Will
